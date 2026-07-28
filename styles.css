@@ -681,3 +681,9 @@ canvas{
     }
 
 }
+/* Evitar zoom automático en iPhone al escribir */
+input,
+textarea,
+select {
+    font-size: 16px !important;
+}
