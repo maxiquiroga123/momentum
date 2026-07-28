@@ -1,4 +1,4 @@
-const CACHE_NAME = "momentum-v3";
+const CACHE_NAME = "momentum-v4";
 
 const FILES_TO_CACHE = [
     "./",
@@ -7,7 +7,8 @@ const FILES_TO_CACHE = [
     "./app.js",
     "./chart.js",
     "./manifest.json",
-    "./icon.png"
+    "./icon.png",
+    "./apple-touch-icon.png"
 ];
 
 // Guardar archivos para usarlos sin internet
